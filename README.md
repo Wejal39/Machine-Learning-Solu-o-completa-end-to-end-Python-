@@ -1,2 +1,1 @@
-# Machine-Learning-Solu-o-completa-end-to-end-Python-
-Projeto de Machine Learning
+# Machine Learning Solução completa end-to-end (Python) Case Imobiliário
